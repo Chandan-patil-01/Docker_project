@@ -1,5 +1,5 @@
 # Base image for Node.js environment
-FROM node:18-alpine
+FROM node:18
 
 # Working directory within the container
 WORKDIR /app
